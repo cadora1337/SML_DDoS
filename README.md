@@ -1,2 +1,4 @@
 # SML_DDoS
-SML DDoS ATTACK
+Telegram:t.me/SML_DDoS
+Owner:@cadora1337
+Admin:@adowlkil
